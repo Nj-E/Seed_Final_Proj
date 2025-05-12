@@ -1,0 +1,425 @@
+{
+  "IPCC_AR6_WGII_IntroductionWGII.json": {
+    "title": "Introduction to WGII AR6 Fact Sheets",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2023,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_IntroductionWGII"
+  },
+  "IPCC_AR6_WGII_FactSheet_Asia.json": {
+    "title": "Fact sheet Asia",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2022,
+    "geography": "Asia",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Asia"
+  },
+  "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Disaster_Management_Insurance.json": {
+    "title": "Climate information relevant for Disaster Management and Insurance",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Disaster_Management_Insurance"
+  },
+  "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Cities_Buildings_Transport.json": {
+    "title": "Climate information relevant for the Cities, Buildings, and Transport",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Cities_Buildings_Transport"
+  },
+  "IPCC_AR6_SYR_AnnexesIndex.json": {
+    "title": "Annexes Assessment Report 6",
+    "sourceType": "research",
+    "publication": "IPCC",
+    "year": 2023,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_SYR_AnnexesIndex"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_Africa.json": {
+    "title": "Regional fact sheet - Africa",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "Africa",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_Africa"
+  },
+  "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Tourism.json": {
+    "title": "Climate information relevant for Tourism",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Tourism"
+  },
+  "IPCC_AR6_WGII_FactSheet_FoodAndWater.json": {
+    "title": "Fact sheet - Food and Water",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_FoodAndWater"
+  },
+  "IPCC_AR6_WGII_FactSheet_SLR.json": {
+    "title": "Fact sheet - Responding to Sea Level Rise",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_SLR"
+  },
+  "IPCC_AR6_WGIII_FullReport.json": {
+    "title": "Climate Change 2022 - Mitigation of Climate Change",
+    "sourceType": "research",
+    "publication": "IPCC",
+    "year": 2022,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGIII_FullReport"
+  },
+  "IPCC_AR6_WGII_FactSheet_Contributors.json": {
+    "title": "WGII AR6 Fact sheets",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2022,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Contributors"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_Urban_areas.json": {
+    "title": "Regional fact sheet - Urban Areas",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_Urban_areas"
+  },
+  "IPCC_AR6_WGII_FullReport.json": {
+    "title": "Climate Change 2022 - Impacts, Adaptation and Vulnerability",
+    "sourceType": "research",
+    "publication": "IPCC",
+    "year": 2022,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FullReport"
+  },
+  "IPCC_AR6_SYR_FullVolume.json": {
+    "title": "Climate Change 2023 - Synthesis Report",
+    "sourceType": "research",
+    "publication": "IPCC",
+    "year": 2023,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_SYR_FullVolume"
+  },
+  "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Introduction.json": {
+    "title": "IPCC Climate fact sheets for the sectors - Introduction",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Introduction"
+  },
+  "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Marine_Ecosystems_Fisheries.json": {
+    "title": "Climate information relevant for Marine Ecosystems, Fisheries and Aquaculture",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Marine_Ecosystems_Fisheries"
+  },
+  "IPCC_AR6_WGII_FactSheet_Mountains.json": {
+    "title": "Fact sheet - Mountains",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Mountains"
+  },
+  "SROCC_FullReport_FINAL.json": {
+    "title": "The Ocean and Cryosphere in a Changing Climate",
+    "sourceType": "research",
+    "publication": "IPCC",
+    "year": 2022,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "SROCC_FullReport_FINAL"
+  },
+  "IPCC_AR6_WGII_FactSheet_SmallIslands.json": {
+    "title": "Fact sheet - Small Islands",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_SmallIslands"
+  },
+  "IPCC_AR6_WGII_FactSheet_HumanSettlements.json": {
+    "title": "Fact sheet - Human Settlements",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_HumanSettlements"
+  },
+  "IPCC_AR6_WGII_FactSheet_Europe.json": {
+    "title": "Fact sheet - Europe",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "Europe",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Europe"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_Small_Islands.json": {
+    "title": "Fact sheet - Small Islands",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_Small_Islands"
+  },
+  "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Health.json": {
+    "title": "CLimate information relevant for Health",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Health"
+  },
+  "SRCCL_Full_Report.json": {
+    "title": "Climate Change and Land",
+    "sourceType": "research",
+    "publication": "IPCC",
+    "year": 2022,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "SRCCL_Full_Report"
+  },
+  "IPCC_AR6_WGI_FullReport_small.json": {
+    "title": "Climate Change 2021 - The Physical Science Basis",
+    "sourceType": "research",
+    "publication": "IPCC",
+    "year": 2021,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_FullReport_small"
+  },
+  "SR15_Full_Report_LR.json": {
+    "title": "Global Warming of 1.5*C",
+    "sourceType": "research",
+    "publication": "IPCC",
+    "year": 2018,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "SR15_Full_Report_LR"
+  },
+  "IPCC_AR6_WGII_FactSheet_Biodiversity.json": {
+    "title": "Fact sheet - Biodiversity",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Biodiversity"
+  },
+  "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Forestry.json": {
+    "title": "Climate information relevant for Forestry",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Forestry"
+  },
+  "IPCC_AR6_WGII_FactSheet_NorthAmerica.json": {
+    "title": "Fact sheet - North America",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "North America",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_NorthAmerica"
+  },
+  "IPCC_AR6_WGII_FactSheet_Australasia.json": {
+    "title": "Fact sheet - Australasia",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "Australasia",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Australasia"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_Asia.json": {
+    "title": "Regional fact sheet - Asia",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "Asia",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_Asia"
+  },
+  "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Energy.json": {
+    "title": "Climate information relevant for the Energy sector",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Energy"
+  },
+  "IPCC_AR6_WGII_FactSheet_Health.json": {
+    "title": "Fact sheet - Health",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Health"
+  },
+  "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Agriculture_and_Pasture_Systems.json": {
+    "title": "Climate information relevant for Agricultural and Pasture Systems",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Agriculture_and_Pasture_Systems"
+  },
+  "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Water_Resources_Management.json": {
+    "title": "Climate information relevant for Water Resources Management",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Water_Resources_Management"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_North_and_Central_America.json": {
+    "title": "Regional fact sheet - North and Central America",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "North America, Central America",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_North_and_Central_America"
+  },
+  "IPCC_AR6_WGII_FactSheet_Africa.json": {
+    "title": "Fact sheet - Africa",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "Africa",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Africa"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_Central_South_America.json": {
+    "title": "Regional fact sheet - Central and South America",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "Central America, South America",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_Central_South_America"
+  },
+  "IPCC_AR6_WGII_FactSheet_CentralSouthAmerica.json": {
+    "title": "Fact sheet - Central and South America",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "Central America, South America",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_CentralSouthAmerica"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_Australasia.json": {
+    "title": "Regional fact sheet - Australasia",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "Australasia",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_Australasia"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_Mountains.json": {
+    "title": "Regional fact sheet - Mountains",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_Mountains"
+  },
+  "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Terrestrial_Freshwater_Ecosystems.json": {
+    "title": "Climate information relevant for Terrestrial and Freshwater Ecosystems",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Sectoral_Fact_Sheet_Terrestrial_Freshwater_Ecosystems"
+  },
+  "IPCC_AR6_WGII_FactSheet_CitiesSettlementsBtS.json": {
+    "title": "Fact sheet - Cities and Settlements by the Sea",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGII_FactSheet_CitiesSettlementsBtS"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_Introduction.json": {
+    "title": "Regional fact sheet - Introduction",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_Introduction"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_Polar_regions.json": {
+    "title": "Regional fact sheet - Polar Regions",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "Polar regions",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_Polar_regions"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_Ocean.json": {
+    "title": "Regional fact sheet - Ocean",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "global",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_Ocean"
+  },
+  "IPCC_AR6_WGI_Regional_Fact_Sheet_Europe.json": {
+    "title": "Regional fact sheet - Europe",
+    "sourceType": "Fact Sheet",
+    "publication": "IPCC",
+    "year": 2020,
+    "geography": "Europe",
+    "actorType": "institution",
+    "signalID_prefix": "IPCC_AR6_WGI_Regional_Fact_Sheet_Europe"
+  }
+}

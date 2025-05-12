@@ -1,0 +1,38 @@
+[
+  {
+    "id": "IPCC_AR6_WGII_FactSheet_Europe_p1_1",
+    "source_pdf": "IPCC_AR6_WGII_FactSheet_Europe.json",
+    "page": 1,
+    "text": "SIXTH ASSESSMENT REPORT\nWorking Group II – Impacts, Adaptation and Vulnerability\nKey Risk 2: Heat and drought stress on crops\nSubstantive agricultural production losses are projected for most European areas over the 21st century, which will not be offset by \ngains in Northern Europe (high confidence). While irrigation is an effective adaptation option for agriculture, the ability to adapt using \nirrigation will be increasingly limited by water availability, especially in response to GWL above 3°C (high confidence). {ES-Ch13}\nFact sheet - Europe\nClimate change impacts and risks\nOur current 1.1°C warmer world is already affecting natural and\nhuman systems in Europe (very high confidence). Impacts of\ncompound hazards of warming and precipitation have become\nmore frequent (medium confidence). Largely negative impacts are\nprojected for southern regions. {ES-Ch13}\nClimate Change Impacts and Risks\nFigure 1: \nChanges in climate hazards for \nglobal warming levels of 1.5ºC \nand 3ºC based on the CMIP6 \nensemble with respect to the \nbaseline period 1995-2014, \ncombined with information on \npresent exposure or vulnerability.\n(a,b) number of days with \ntemperature maximum above \n35ºC (TX35) and population \ndensity. {Figure 13.4a,b}\n(c,d) daily precipitation maximum \n(Rx1 d) and built-up area. {Figure \n13.4c,d}\nKey Risk 1: Mortality and morbidity of people and changes in ecosystems due to heat\nThe number of deaths and people at risk of heat stress will increase two- to threefold at 3ºC compared with 1.5ºC GWL (high\nconfidence). Above 3°C GWL, there are limits to the adaptation potential of people and existing health systems (high confidence). {ES-\nCh13; 13.7.1}\nWarming will decrease suitable habitat space for current terrestrial and marine ecosystems and irreversibly change their composition,\nincreasing in severity above 2°C GWL (very high confidence). Fire-prone areas are projected to expand across Europe, threatening\nbiodiversity and carbon sinks (medium confidence). {ES-Ch13}\nKey Risks\nFour key risks have been identified for Europe, with most\nbecoming more severe at 2°C global warming levels (GWL)\ncompared with 1.5°C GWL in scenarios with low to medium\nadaptation (high confidence). From 3°C GWL and even with\nhigh adaptation, severe risks remain for many sectors in Europe\n(high confidence). {ES-Ch13}\n1",
+    "metadata": {
+      "title": "Fact sheet - Europe",
+      "sourceType": "Fact Sheet",
+      "publication": "IPCC",
+      "year": 2020,
+      "geography": "Europe",
+      "actorType": "institution",
+      "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Europe"
+    },
+    "theme": 23,
+    "subThemes": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "IPCC_AR6_WGII_FactSheet_Europe_p2_1",
+    "source_pdf": "IPCC_AR6_WGII_FactSheet_Europe.json",
+    "page": 2,
+    "text": "SIXTH ASSESSMENT REPORT\nWorking Group II – Impacts, Adaptation and Vulnerability\nKey Risk 4: Flooding and sea level rise\nAbove 3°C GWL, damage costs and people affected by\nprecipitation and river flooding may double. Coastal flood\ndamage is projected to increase at least tenfold by the end of the\n21st century, and even more or earlier with current adaptation\nand mitigation (high confidence). Sea level rise represents an\nexistential threat for coastal communities and their cultural\nheritage, particularly beyond 2100. {ES-Ch13}\n• Key Risk 1 (heat): behavioural change combined with building \ninterventions, space cooling and urban planning to manage heat \nrisks; restoration, expansion and connection of protected areas for \necosystems\n• Key Risk 2 (agriculture): irrigation, vegetation cover, changes in \nfarming practices, crop and animal species, and shifting planting; \n[fire and forest management, and agroecology]\n• Key Risk 3 (water scarcity): efficiency improvements, water \nstorage, water reuse, early warning systems, and land-use \nchange\nBarriers\nKey barriers are limited resources, lack of private-sector and\ncitizens engagement, insufficient mobilisation of finance, lack of\npolitical leadership, and low sense of urgency. Most of the\nadaptation options to the key risks depend on limited water and land\nresources, creating competition and trade-offs, also with mitigation\noptions and socioeconomic developments (high confidence). {ES-\nCh13}\nAdaptation Options and Barriers\nResidual risks\nIn many parts of Europe, existing and planned adaptation\nmeasures are not sufficient to avoid the residual risk, especially\nbeyond 1.5°C GWL (high confidence). Residual risk can result in\nlosses of habitat and ecosystem services, heat related deaths,\ncrop failures, water rationing during droughts in Southern Europe\nand loss of land (medium confidence). {ES-Ch13}\nClimate Resilient Development\nClosing the adaptation gap requires moving beyond short-term planning and ensuring timely and adequate implementation (high\nconfidence). Inclusive, equitable and just adaptation pathways are critical for climate resilient development. The success of adaptation will\ndepend on our understanding of which adaptation options are feasible and effective in their local context (high confidence). {ES-Ch13}\nAdaptation options\nThere are a growing range of adaptation options available today to deal with future climate risks (high confidence). Examples for \nadaptation to the key risks include: \nFigure 2: Burning ember diagrams for key risks for Europe under low to medium adaptation. {Figure 13.28}\nKey Risk 3: Water scarcity\nIn Southern Europe, more than a third of the population will be\nexposed to water scarcity at 2°C GWL; under 3°C GWL, this risk\nwill double, and significant economic losses in water- and\nenergy-dependent sectors may arise (medium confidence). For\nWestern Central and Southern Europe, and for many cities, the\nrisk of water scarcity will increase strongly under 3°C GWL. {ES-\nCh13}\n2\n• Key Risk 4 (flooding): early warning systems, reserving space \nfor water and ecosystem-based adaptation, sediment or \nengineering-based options, land-use change and managed \nretreat \n• Nature-based solutions for flood protection and heat \nalleviation are themselves under threat from warming, \nextreme heat, drought and sea level rise (high confidence). \n{ES-Ch13}\nVersion published October 2022",
+    "metadata": {
+      "title": "Fact sheet - Europe",
+      "sourceType": "Fact Sheet",
+      "publication": "IPCC",
+      "year": 2020,
+      "geography": "Europe",
+      "actorType": "institution",
+      "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Europe"
+    },
+    "theme": -1,
+    "subThemes": [],
+    "sentiment": "negative"
+  }
+]

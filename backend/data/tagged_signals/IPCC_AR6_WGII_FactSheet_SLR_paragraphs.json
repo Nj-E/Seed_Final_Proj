@@ -1,0 +1,38 @@
+[
+  {
+    "id": "IPCC_AR6_WGII_FactSheet_SLR_p1_1",
+    "source_pdf": "IPCC_AR6_WGII_FactSheet_SLR.json",
+    "page": 1,
+    "text": "SIXTH ASSESSMENT REPORT Working Group II – Impacts, Adaptation and Vulnerability Take an adaptation pathways approach Coastal impacts of sea level rise can be avoided by preventing new development in exposed coastal locations. For existing developments, a range of near-term adaptation options exists, including (1) engineered, sediment- or ecosystem-based protection; (2) accommodation and land use planning, to reduce the vulnerability of people and infrastructure; (3) advance through, for example, land reclamation; and (4) retreat through planned relocation or displacements and migrations due to sea level rise. Only avoidance and relocation can remove coastal risks for the coming decades, while other measures only delay impacts for a time, have increasing residual risk or perpetuate risk and create ongoing legacy effects and virtually certain property and ecosystem losses (high confidence). {CCB SLR-Ch3} Large-scale relocation has immense cultural, political, social and economic costs, and equity implications, which can be reduced by fast implementation of climate mitigation and adaptation policies. While relocation may currently appear socially unacceptable, economically inefficient or technically infeasible today, it becomes the only feasible option as protection costs become unaffordable and the limits to accommodation become obvious. Effective responses to rising sea level involve locally applicable combinations of decision analysis, land use planning, public participation and conflict resolution approaches; together these can anticipate change and help to chart adaptation pathways, over time addressing the governance challenges due to rising sea level (high confidence). {CCB SLR-Ch3} Fact sheet - Responding to Sea Level Rise Climate Change Impacts and Risks Adaptation Options and Barriers 1 Act now and account for long-term risk Sea level rise poses a distinctive and severe adaptation challenge as it implies dealing with slow onset changes and increased frequency and magnitude of extreme sea level events which will escalate in the coming decades (high confidence). {SPM C.2.8} Risks can be anticipated, planned and decided upon, and adaptation interventions can be implemented over the coming decades considering their often long lead- and lifetimes, irrespective of the large uncertainty about sea level rise beyond 2050 (high confidence). Adaptation capacity and governance to manage risks from projected sea level rise typically require decades to implement and institutionalise (high confidence). {CCB SLR-Ch3} Risks are getting worse Sea level rise is already impacting ecosystems, human livelihoods, infrastructure, food security and climate mitigation at the coast and beyond. Ultimately, it threatens the existence of cities and settlements in low-lying areas, and some island nations and their cultural heritage. {CCB SLR-Ch3} Globally, population change in low-lying cities and settlements will lead to approximately a billion people projected to be at risk from coastal-specific climate hazards in the mid-term (2041-2060) under all scenarios, including in Small Islands (high confidence). {SPM B4.5} Risks to coastal cities and settlements are projected to increase by at least one order of magnitude by 2100 without significant adaptation and mitigation action (high confidence). {TS.C.5.4} These risks are already being faced and will accelerate beyond 2050 and continue to escalate beyond 2100, even if warming stops. Historically rare extreme sea level events will occur annually by 2100, compounding these risks (high confidence). {TS.C.5} Figure",
+    "metadata": {
+      "title": "Fact sheet - Responding to Sea Level Rise",
+      "sourceType": "Fact Sheet",
+      "publication": "IPCC",
+      "year": 2020,
+      "geography": "global",
+      "actorType": "institution",
+      "signalID_prefix": "IPCC_AR6_WGII_FactSheet_SLR"
+    },
+    "theme": 6,
+    "subThemes": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "IPCC_AR6_WGII_FactSheet_SLR_p2_1",
+    "source_pdf": "IPCC_AR6_WGII_FactSheet_SLR.json",
+    "page": 2,
+    "text": "SIXTH ASSESSMENT REPORT\nWorking Group II – Impacts, Adaptation and Vulnerability\nOvercome adaptation barriers\nThere is increasing evidence that current governance and institutional arrangements are unable to address the escalating risks in low-lying\ncoastal areas worldwide (high confidence). Barriers to adaptation, such as decision-making driven by short-term thinking or vested\ninterests, funding limitations and inadequate financial policies and insurance, can be addressed equitably and sustainably through\nimplementation of suites of adaptation options and pathways. Improved coastal adaptation governance can be supported by approaches\nthat consider changing risks over time, such as ‘dynamic adaptation pathways’ planning. Integrated coastal zone management and land\nuse and infrastructure planning are starting to consider sea level rise by, for example, monitoring early signals, updating sea level\nprojections, considering uncertainties of sea level projections and coastal impacts, as well as engaging with communities, practitioners and\nscientists, recognising the values of current and future generations. {CCB SLR-Ch3}\n2\nClimate Resilient Development\nKey role of coastal cities and settlements\nReducing the acceleration of sea level rise beyond 2050 will only be achieved with fast and profound mitigation of climate change. Until\n2050, adaptation planning and implementation needs are projected to increase significantly in most inhabited coastal regions. {CCB SLR-\nCh3} Realising global aspirations for climate resilient development depends on the extent to which coastal cities and settlements\ninstitutionalise key enabling conditions and chart place-based adaptation pathways to close the coastal adaptation gap, and on the extent\nto which they take urgent action to mitigate greenhouse gas emissions (medium confidence). {CCP2-ES}\nBenefits of ecosystem-based adaptation\nEcosystem-based adaptation can reduce impacts on human settlements and bring substantial co-benefits, such as ecosystem services\nrestoration and carbon storage, but they require space for sediment and ecosystems and have site-specific physical limits, at least above\n1.5°C global warming level (high confidence). {CCB SLR-Ch3} Coastal wetlands protect against coastal erosion and flooding associated\nwith storms and sea level rise where sufficient space and adequate habitats are available until rates of sea level rise exceed natural\nadaptive capacity to build sediment (very high confidence). {SPM C.2.5}\nAvoid maladaptation\nActions that focus on sectors and risks in isolation and on short-term gains often lead to maladaptation if long-term impacts of the\nadaptation option and long-term adaptation commitment are not taken into account (high confidence). {SPM.C.4.1}\nFigure 2: Illustrative adaptation pathways for coastal cities and settlements. As risk increases over time, different options can be combined and sequenced to contain risk. Depending on local \nconditions and risk tolerance, alternative pathways offer different ways to contain risk for a period of time with.various trade-offs. {Figure CCP2.4}",
+    "metadata": {
+      "title": "Fact sheet - Responding to Sea Level Rise",
+      "sourceType": "Fact Sheet",
+      "publication": "IPCC",
+      "year": 2020,
+      "geography": "global",
+      "actorType": "institution",
+      "signalID_prefix": "IPCC_AR6_WGII_FactSheet_SLR"
+    },
+    "theme": 6,
+    "subThemes": [],
+    "sentiment": "positive"
+  }
+]

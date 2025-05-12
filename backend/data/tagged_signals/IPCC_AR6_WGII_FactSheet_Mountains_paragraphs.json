@@ -1,0 +1,38 @@
+[
+  {
+    "id": "IPCC_AR6_WGII_FactSheet_Mountains_p1_1",
+    "source_pdf": "IPCC_AR6_WGII_FactSheet_Mountains.json",
+    "page": 1,
+    "text": "SIXTH ASSESSMENT REPORT Working Group II – Impacts, Adaptation and Vulnerability Floods and landslides Climate-related hazards, such as flash floods and landslides, have contributed to an increase in disasters affecting a growing number of people in mountain regions and areas further downstream (high confidence). {ES-CCP5} Projected changes in hazards, such as floods and landslides, as well as changes in the water cycle, will lead to severe risk consequences for people, infrastructure and the economy in many mountain regions (high confidence). Nearly all mountain regions will face at least moderate and some regions even high risks at around 2°C global warming level (GWL) (medium confidence). {ES-CCP5; Figure CCP5.5} Fact sheet - Mountains Water Climate and cryosphere change have negatively impacted the water cycle in mountains, including variable timing of glacier melt and snowmelt stream discharge (high confidence). These changes have variable impacts on water availability for people and economies, contributing to increasing tensions or conflicts over water resources, especially in seasonally dry regions (medium confidence). {ES-CCP5} Water resources in mountains and dependent lowlands will continue to be strongly impacted by climate change throughout the 21st century (high confidence). The difference in impacts will be particularly strong in regions that greatly depend on glacier and snowmelt and, in pronounced dry seasons (high confidence), in regions including Central Asia, South Asia, tropical and subtropical western South America and southwestern North America. {CCP5.3.1} To define the geographical scope of the assessment and to quantify the human population residing within these regions, the mountain characterisation given by Kapos et al. (2000)* was employed. This characterisation is consistent with the mountain region extents used in the AR6 WGI report and yields a global mountainous area of 31.74 million km2. In 2015, a total of 1.28 billion people resided in mountain regions. {CCP5.1} Climate Change Impacts and Risks Observed changes, impacts and risks Climate change impacts in mountains and their attribution to human influence have increased in recent decades with observable and serious consequences for people and ecosystems in many mountain regions (high confidence). Observed changes include increasing temperatures, changing seasonal weather patterns, reductions in snow cover extent and duration at low elevations, loss of glacier mass, increased permafrost thaw and an increase in the number and size of glacier lakes (high confidence). {ES-CCP5} Ecosystems The spatial distributions of many plant species have shifted to higher elevations in recent decades, consistent with rising temperatures across most mountain regions (high confidence). Impacts on biological communities and animal species are also increasingly being reported, with species of lower elevations increasing in mountain regions, creating more homogeneous vegetation and increasing risks of extinction to mountain-top species (medium confidence). {ES-CCP5} Declines and extinctions have been projected in a range of montane plants and animal species, including rare endemic species and subspecies due to climate change (medium evidence, high agreement). Up to 84% of endemic mountain species are found to be at risk of extinction. {CCP5.3.1} Food/Agriculture There is high confidence that climate change is largely negatively impacting food, fibre and other ecosystem products, including agriculture and ecosystem services across many different mountainous regions,",
+    "metadata": {
+      "title": "Fact sheet - Mountains",
+      "sourceType": "Fact Sheet",
+      "publication": "IPCC",
+      "year": 2020,
+      "geography": "global",
+      "actorType": "institution",
+      "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Mountains"
+    },
+    "theme": 8,
+    "subThemes": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "IPCC_AR6_WGII_FactSheet_Mountains_p2_1",
+    "source_pdf": "IPCC_AR6_WGII_FactSheet_Mountains.json",
+    "page": 2,
+    "text": "SIXTH ASSESSMENT REPORT\nWorking Group II – Impacts, Adaptation and Vulnerability\nAdaptation options\nThe current pace, depth and scope of adaptation are insufficient to address future risks in mountain regions, particularly at higher warming\nlevels (high confidence). With warming above 1.5°C, the need for adaptation to address key risks in mountains becomes increasingly\nurgent (high confidence). {ES-CCP5}\nProgress in addressing climate risks requires targeting the root causes of vulnerability, which are often socioeconomic in origin and can\ninclude poverty, marginalisation, and inequitable gender dynamics (high confidence). {CCP5.4.2}\nThere is high confidence that water conservation efforts, including restoration and protection of particularly vulnerable areas\n(e.g., wetlands) and increase in efficiency in water use, are robust, low-regret adaptation measures. {CCP5.2.2.1}\nRegional cooperation and transboundary governance in mountain regions, supported by multi-scale knowledge networks and monitoring\nprogrammes, enable long-term adaptation actions where risks transcend boundaries and jurisdictions (medium confidence). {ES-CCP5}\nAdaptation Options and Barriers\nFigure 1: Risk levels assessed per AR6 WGI reference regions (see AR6 WGI Atlas). The majority of studies assessed focus on impacts up to mid-century \n(2030-2060) and for RCP-2.6, RCP-4.5 and RCP-6.0, which was converted into the corresponding warming level range 1.5-2.0°C GWL (see Cross-Chapter \nBox CLIMATE in Chapter 1). Methodological details are provided in Section SMCCP5.4, Figure SMCCP5.1, Table SMCCP5.17 and SMCCP5.19. \n{Figure CCP5.6}\n2\nClimate Resilient Development\nWith warming above 1.5°C, the need for adaptation to address key risks in mountains becomes increasingly urgent (high confidence).\nPathways and system transitions that strengthen climate-resilient sustainable mountain development are starting to receive attention, but\ncurrent levels of resourcing are substantially insufficient to support timely action. {ES-CCP5}\nRisks to adaptation\nAdaptation in mountain areas is currently constrained predominantly by soft limits related to existing social, economic, and political\nconditions (high confidence). Progress in overcoming soft limits is currently minimal due to insufficient engagement with socioeconomic and\npolitical issues in existing adaptation (medium confidence). {CCP5.4.1}",
+    "metadata": {
+      "title": "Fact sheet - Mountains",
+      "sourceType": "Fact Sheet",
+      "publication": "IPCC",
+      "year": 2020,
+      "geography": "global",
+      "actorType": "institution",
+      "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Mountains"
+    },
+    "theme": 8,
+    "subThemes": [],
+    "sentiment": "negative"
+  }
+]

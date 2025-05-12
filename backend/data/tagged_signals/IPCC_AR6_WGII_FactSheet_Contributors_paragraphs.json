@@ -1,0 +1,38 @@
+[
+  {
+    "id": "IPCC_AR6_WGII_FactSheet_Contributors_p1_1",
+    "source_pdf": "IPCC_AR6_WGII_FactSheet_Contributors.json",
+    "page": 1,
+    "text": "SIXTH ASSESSMENT REPORT\nWorking Group II – Impacts, Adaptation and Vulnerability\nWGII AR6 Fact sheets \nAfrica\nIbidun O. Adelekan (Nigeria)\nNicholas P. Simpson (Zimbabwe/South Africa)\nEdmond Totin (Benin)\nChristopher H. Trisos (South Africa)\nAsia\nSanjay Chaturvedi (India)\nTae Sung Cheong (Republic of Korea)\nYong Luo (China)\nChandni Singh (India)\nRajib Shaw (Japan)\nAustralasia\nKevin Hennessy (Australia)\nJudy Lawrence (New Zealand) \nBrendan Mackey (Australia)\nCentral and South America\nEdwin J. Castellanos (Guatemala)\nMaria Fernanda Lemos (Brazil)\nEurope\nBirgit Bednar-Friedl (Austria)\nRobbert Biesbroek (The Netherlands)\nDaniela N. Schmidt (United Kingdom/Germany)\nNorth America\nKirstin Holsman (USA)\nSimone Lucatello (Mexico)\nSmall Islands\nShobha Maharaj (Germany/Trinidad and Tobago)\nMichelle Mycoo (Trinidad and Tobago)\nJohanna Nalau (Australia/Finland)\nMorgan Wairiu (Solomon Islands)\nList of Contributors\n1\nHuman Settlements\nWinston Chow (Singapore)\nRichard Dawson (United Kingdom)\nBruce Glavovic (New Zealand/South Africa)\nMarjolijn Haasnoot (The Netherlands)\nMark Pelling (United Kingdom)\nWilliam Solecki (USA)\nCities and Settlements by the Sea\nWinston Chow (Singapore)\nGonéri Le Cozannet (France)\nRichard Dawson (United Kingdom)\nMatthias Garschagen (Germany)\nBruce Glavovich (New Zealand/South Africa)\nMarjolijn Haasnoot (The Netherlands)\nJudy Lawrence (New Zealand)\nMichelle Mycoo (Trinidad and Tobago)\nMark Pelling (United Kingdom)\nDavid Schoeman (Australia)\nChandni Singh (India)\nAdelle Thomas (Bahamas)\nResponding to Sea Level Rise\nWinston Chow (Singapore)\nGonéri Le Cozannet (France)\nRichard Dawson (United Kingdom)\nMatthias Garschagen (Germany)\nBruce Glavovich (New Zealand/South Africa)\nMarjolijn Haasnoot (The Netherlands)\nJudy Lawrence (New Zealand)\nMichelle Mycoo (Trinidad and Tobago)\nMark Pelling (United Kingdom)\nDavid Schoeman (Australia)\nChandni Singh (India)\nAdelle Thomas (Bahamas)\nMountains\nCarolina Adler (Switzerland/Chile/Australia)\nIndra Bhatt (India)\nChristian Huggel (Switzerland)\nGregory Insarov (Russian Federation)\nVeruska Muccione (Switzerland/Italy)\nPhilippus Wester (Nepal/The Netherlands)\n1",
+    "metadata": {
+      "title": "WGII AR6 Fact sheets",
+      "sourceType": "Fact Sheet",
+      "publication": "IPCC",
+      "year": 2022,
+      "geography": "global",
+      "actorType": "institution",
+      "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Contributors"
+    },
+    "theme": -1,
+    "subThemes": [],
+    "sentiment": "negative"
+  },
+  {
+    "id": "IPCC_AR6_WGII_FactSheet_Contributors_p2_1",
+    "source_pdf": "IPCC_AR6_WGII_FactSheet_Contributors.json",
+    "page": 2,
+    "text": "SIXTH ASSESSMENT REPORT\nWorking Group II – Impacts, Adaptation and Vulnerability\nWGII AR6 Fact sheets \nBiodiversity\nMike D. Morecroft (United Kingdom)\nCamille Parmesan (France/USA/United Kingdom)\nDavid Schoeman (Australia)\nMariana M. Vale (Brazil)\nFood and Water\nRichard A. Betts (United Kingdom)\nRachel Bezner Kerr (Canada/USA)\nToshihiro Hasegawa (Japan)\nTabea Lissner (Germany)\nAditi Mukherji (India)\nHealth\nKristie L. Ebi (USA)\nGuéladio Cissé (Mauretania/Switzerland/France)\nList of Contributors\n1\nCoordination: Katja Mintenbeck (Germany)\nKomila Nabiyeva (Germany/Uzbekistan)\nEditing: Katja Mintenbeck (Germany\nVincent Möller (Germany)\nKomila Nabiyeva (Germany/Uzbekistan)\nLayout: Stefanie Langsdorf (Germany)\nMelissa Walsh (France/Australia)\nSpecial thanks goes to:\nIPCC WGII Bureau for editorial guidance\nHans Pörtner (Germany) \nDebra C. Roberts (South Africa)\nJoy Pereira (Malaysia)\nRoberto A. Sánchez-Rodríguez (Mexico)\nIPCC WGII Technical Support Unit for \neditorial support\nElvira Poloczanska (United Kingdom/Australia)\nMarlies Craig (South Africa)\nAndrew Okem (South Africa)\nNina Krebs (Germany)\nThe IPCC authors from the Working Groups I \nand III who provided their feedback\n12\nVersion published 4 November 2022",
+    "metadata": {
+      "title": "WGII AR6 Fact sheets",
+      "sourceType": "Fact Sheet",
+      "publication": "IPCC",
+      "year": 2022,
+      "geography": "global",
+      "actorType": "institution",
+      "signalID_prefix": "IPCC_AR6_WGII_FactSheet_Contributors"
+    },
+    "theme": 34,
+    "subThemes": [],
+    "sentiment": "positive"
+  }
+]
