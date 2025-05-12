@@ -1,0 +1,1018 @@
+[
+  {
+    "id": "theme-96-negative-possible-3",
+    "title": "Theme 96",
+    "description": "In this possible and cautious scenario for 96, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p1777_1",
+      "IPCC_AR6_WGIII_FullReport_p470_1",
+      "IPCC_AR6_WGIII_FullReport_p386_1",
+      "IPCC_AR6_WGIII_FullReport_p1784_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p1777_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p470_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p386_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1784_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-44-negative-plausible-3",
+    "title": "Theme 44",
+    "description": "In this plausible and cautious scenario for 44, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p1217_1",
+      "IPCC_AR6_WGIII_FullReport_p1206_1",
+      "IPCC_AR6_WGIII_FullReport_p262_1",
+      "IPCC_AR6_WGIII_FullReport_p646_1",
+      "IPCC_AR6_WGIII_FullReport_p1202_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p1217_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1206_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p262_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p646_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1202_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-7-negative-probable-2",
+    "title": "Theme 7",
+    "description": "In this very likely and cautious scenario for 7, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "probable",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p1341_1",
+      "IPCC_AR6_WGIII_FullReport_p387_1",
+      "IPCC_AR6_WGII_FullReport_p846_1",
+      "IPCC_AR6_WGII_FullReport_p801_1",
+      "IPCC_AR6_WGII_FullReport_p737_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p1341_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p387_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p846_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p801_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p737_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-96-negative-possible-2",
+    "title": "Theme 96",
+    "description": "In this possible and cautious scenario for 96, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p1777_1",
+      "IPCC_AR6_WGIII_FullReport_p470_1",
+      "IPCC_AR6_WGIII_FullReport_p1784_1",
+      "IPCC_AR6_WGIII_FullReport_p386_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p1777_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p470_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1784_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p386_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-53-positive-possible-3",
+    "title": "Theme 53",
+    "description": "In this possible and optimistic scenario for 53, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p1798_1",
+      "IPCC_AR6_WGIII_FullReport_p472_1",
+      "IPCC_AR6_WGIII_FullReport_p191_1",
+      "IPCC_AR6_WGIII_FullReport_p1781_1",
+      "IPCC_AR6_WGIII_FullReport_p1745_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p1798_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p472_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p191_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1781_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1745_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-38-negative-probable-1",
+    "title": "Theme 38",
+    "description": "In this very likely and cautious scenario for 38, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "probable",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2265_1",
+      "IPCC_AR6_WGII_FullReport_p2254_1",
+      "IPCC_AR6_WGII_FullReport_p2259_1",
+      "IPCC_AR6_WGII_FullReport_p2266_1",
+      "IPCC_AR6_WGII_FullReport_p1924_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2265_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2254_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2259_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2266_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1924_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-47-negative-probable-1",
+    "title": "Theme 47",
+    "description": "In this very likely and cautious scenario for 47, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "probable",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p1928_1",
+      "IPCC_AR6_WGIII_FullReport_p1958_1",
+      "IPCC_AR6_WGIII_FullReport_p1926_1",
+      "IPCC_AR6_WGIII_FullReport_p1943_1",
+      "IPCC_AR6_WGIII_FullReport_p1980_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p1928_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1958_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1926_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1943_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1980_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme--1-negative-probable-2",
+    "title": "Theme -1",
+    "description": "In this very likely and cautious scenario for -1, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "probable",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p568_1",
+      "IPCC_AR6_WGII_FullReport_p610_1",
+      "IPCC_AR6_WGII_FullReport_p998_1",
+      "IPCC_AR6_WGII_FullReport_p1140_1",
+      "IPCC_AR6_WGII_FullReport_p160_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p568_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p610_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p998_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1140_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p160_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-5-negative-probable-1",
+    "title": "Theme 5",
+    "description": "In this very likely and cautious scenario for 5, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "probable",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p372_1",
+      "IPCC_AR6_WGII_FullReport_p630_1",
+      "IPCC_AR6_WGII_FullReport_p272_1",
+      "IPCC_AR6_WGII_FullReport_p624_1",
+      "IPCC_AR6_WGII_FactSheet_Biodiversity_p1_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p372_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p630_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p272_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p624_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FactSheet_Biodiversity_p1_1:  (IPCC_AR6_WGII_FactSheet_Biodiversity.json)"
+    ]
+  },
+  {
+    "id": "theme-16-negative-possible-1",
+    "title": "Theme 16",
+    "description": "In this possible and cautious scenario for 16, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2236_1",
+      "IPCC_AR6_WGII_FullReport_p2219_1",
+      "IPCC_AR6_WGII_FullReport_p2217_1",
+      "IPCC_AR6_WGII_FullReport_p2220_1",
+      "IPCC_AR6_WGII_FullReport_p2224_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2236_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2219_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2217_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2220_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2224_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-129-negative-possible-3",
+    "title": "Theme 129",
+    "description": "In this possible and cautious scenario for 129, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p1082_1",
+      "IPCC_AR6_WGII_FullReport_p1133_1",
+      "IPCC_AR6_WGII_FullReport_p1984_1",
+      "IPCC_AR6_WGII_FullReport_p1139_1",
+      "IPCC_AR6_WGII_FullReport_p1089_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p1082_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1133_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1984_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1139_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1089_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-113-negative-possible-2",
+    "title": "Theme 113",
+    "description": "In this possible and cautious scenario for 113, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2890_1",
+      "IPCC_AR6_WGII_FullReport_p2886_1",
+      "IPCC_AR6_WGII_FullReport_p589_1",
+      "IPCC_AR6_WGII_FullReport_p2878_1",
+      "IPCC_AR6_WGII_FullReport_p2882_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2890_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2886_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p589_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2878_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2882_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-63-positive-plausible-1",
+    "title": "Theme 63",
+    "description": "In this plausible and optimistic scenario for 63, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2399_1",
+      "IPCC_AR6_WGII_FullReport_p2415_1",
+      "IPCC_AR6_WGII_FullReport_p2393_1",
+      "IPCC_AR6_WGII_FullReport_p769_1",
+      "IPCC_AR6_WGII_FullReport_p2406_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2399_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2415_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2393_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p769_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2406_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-36-negative-probable-1",
+    "title": "Theme 36",
+    "description": "In this very likely and cautious scenario for 36, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "probable",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p473_1",
+      "IPCC_AR6_WGII_FullReport_p787_1",
+      "IPCC_AR6_SYR_FullVolume_p32_1",
+      "IPCC_AR6_SYR_FullVolume_p66_1",
+      "IPCC_AR6_WGII_FullReport_p1970_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p473_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p787_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_SYR_FullVolume_p32_1:  (IPCC_AR6_SYR_FullVolume.json)",
+      "IPCC_AR6_SYR_FullVolume_p66_1:  (IPCC_AR6_SYR_FullVolume.json)",
+      "IPCC_AR6_WGII_FullReport_p1970_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-69-positive-plausible-2",
+    "title": "Theme 69",
+    "description": "In this plausible and optimistic scenario for 69, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_SYR_FullVolume_p54_1",
+      "IPCC_AR6_WGIII_FullReport_p8_1",
+      "IPCC_AR6_SYR_FullVolume_p186_1",
+      "IPCC_AR6_SYR_FullVolume_p19_1",
+      "IPCC_AR6_WGII_FullReport_p52_1"
+    ],
+    "sources": [
+      "IPCC_AR6_SYR_FullVolume_p54_1:  (IPCC_AR6_SYR_FullVolume.json)",
+      "IPCC_AR6_WGIII_FullReport_p8_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_SYR_FullVolume_p186_1:  (IPCC_AR6_SYR_FullVolume.json)",
+      "IPCC_AR6_SYR_FullVolume_p19_1:  (IPCC_AR6_SYR_FullVolume.json)",
+      "IPCC_AR6_WGII_FullReport_p52_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-83-positive-possible-1",
+    "title": "Theme 83",
+    "description": "In this possible and optimistic scenario for 83, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p1282_1",
+      "IPCC_AR6_WGIII_FullReport_p1280_1",
+      "IPCC_AR6_WGIII_FullReport_p1335_1",
+      "IPCC_AR6_WGIII_FullReport_p49_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p1282_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1280_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1335_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p49_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-111-positive-plausible-2",
+    "title": "Theme 111",
+    "description": "In this plausible and optimistic scenario for 111, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p831_1",
+      "IPCC_AR6_WGII_FullReport_p1738_1",
+      "IPCC_AR6_WGII_FullReport_p103_1",
+      "IPCC_AR6_WGII_FullReport_p758_1",
+      "IPCC_AR6_WGII_FullReport_p828_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p831_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1738_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p103_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p758_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p828_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-14-negative-possible-1",
+    "title": "Theme 14",
+    "description": "In this possible and cautious scenario for 14, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p1079_1",
+      "IPCC_AR6_WGII_FullReport_p1713_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p1079_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1713_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-69-negative-possible-1",
+    "title": "Theme 69",
+    "description": "In this possible and cautious scenario for 69, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_SYR_FullVolume_p177_1",
+      "IPCC_AR6_SYR_AnnexesIndex_p4_1",
+      "IPCC_AR6_SYR_AnnexesIndex_p45_1",
+      "IPCC_AR6_WGII_FullReport_p17_1",
+      "IPCC_AR6_SYR_FullVolume_p136_1"
+    ],
+    "sources": [
+      "IPCC_AR6_SYR_FullVolume_p177_1:  (IPCC_AR6_SYR_FullVolume.json)",
+      "IPCC_AR6_SYR_AnnexesIndex_p4_1:  (IPCC_AR6_SYR_AnnexesIndex.json)",
+      "IPCC_AR6_SYR_AnnexesIndex_p45_1:  (IPCC_AR6_SYR_AnnexesIndex.json)",
+      "IPCC_AR6_WGII_FullReport_p17_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_SYR_FullVolume_p136_1:  (IPCC_AR6_SYR_FullVolume.json)"
+    ]
+  },
+  {
+    "id": "theme-61-positive-possible-2",
+    "title": "Theme 61",
+    "description": "In this possible and optimistic scenario for 61, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p629_1",
+      "IPCC_AR6_WGIII_FullReport_p647_1",
+      "IPCC_AR6_WGIII_FullReport_p676_1",
+      "IPCC_AR6_SYR_FullVolume_p70_1",
+      "IPCC_AR6_WGIII_FullReport_p648_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p629_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p647_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p676_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_SYR_FullVolume_p70_1:  (IPCC_AR6_SYR_FullVolume.json)",
+      "IPCC_AR6_WGIII_FullReport_p648_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-6-negative-plausible-1",
+    "title": "Theme 6",
+    "description": "In this plausible and cautious scenario for 6, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2111_1",
+      "IPCC_AR6_WGII_FullReport_p2068_1",
+      "IPCC_AR6_WGII_FullReport_p2458_1",
+      "IPCC_AR6_WGII_FullReport_p2183_1",
+      "IPCC_AR6_WGII_FullReport_p2072_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2111_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2068_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2458_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2183_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2072_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-107-negative-possible-2",
+    "title": "Theme 107",
+    "description": "In this possible and cautious scenario for 107, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2362_1",
+      "IPCC_AR6_WGII_FullReport_p2352_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2362_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2352_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-50-negative-possible-2",
+    "title": "Theme 50",
+    "description": "In this possible and cautious scenario for 50, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2950_1",
+      "IPCC_AR6_WGII_FullReport_p2946_1",
+      "IPCC_AR6_SYR_AnnexesIndex_p16_1",
+      "IPCC_AR6_WGIII_FullReport_p1990_1",
+      "IPCC_AR6_WGIII_FullReport_p1984_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2950_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2946_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_SYR_AnnexesIndex_p16_1:  (IPCC_AR6_SYR_AnnexesIndex.json)",
+      "IPCC_AR6_WGIII_FullReport_p1990_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1984_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-68-positive-possible-1",
+    "title": "Theme 68",
+    "description": "In this possible and optimistic scenario for 68, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p679_1",
+      "IPCC_AR6_WGII_FullReport_p1968_1",
+      "IPCC_AR6_WGII_FullReport_p2813_1",
+      "IPCC_AR6_WGII_FullReport_p2807_1",
+      "IPCC_AR6_WGII_FullReport_p1623_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p679_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1968_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2813_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2807_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1623_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-124-positive-possible-3",
+    "title": "Theme 124",
+    "description": "In this possible and optimistic scenario for 124, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_IntroductionWGII_p1_1",
+      "IPCC_AR6_WGIII_FullReport_p17_1",
+      "IPCC_AR6_WGII_FullReport_p170_1",
+      "IPCC_AR6_WGIII_FullReport_p67_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_IntroductionWGII_p1_1:  (IPCC_AR6_WGII_IntroductionWGII.json)",
+      "IPCC_AR6_WGIII_FullReport_p17_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p170_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p67_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-12-negative-plausible-1",
+    "title": "Theme 12",
+    "description": "In this plausible and cautious scenario for 12, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p449_1",
+      "IPCC_AR6_WGII_FullReport_p467_1",
+      "IPCC_AR6_WGII_FullReport_p439_1",
+      "IPCC_AR6_WGII_FullReport_p458_1",
+      "IPCC_AR6_WGII_FullReport_p446_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p449_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p467_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p439_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p458_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p446_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-29-positive-possible-1",
+    "title": "Theme 29",
+    "description": "In this possible and optimistic scenario for 29, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p22_1",
+      "IPCC_AR6_WGIII_FullReport_p228_1",
+      "IPCC_AR6_WGIII_FullReport_p1159_1",
+      "IPCC_AR6_WGIII_FullReport_p231_1",
+      "IPCC_AR6_SYR_FullVolume_p62_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p22_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p228_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1159_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p231_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_SYR_FullVolume_p62_1:  (IPCC_AR6_SYR_FullVolume.json)"
+    ]
+  },
+  {
+    "id": "theme-36-negative-possible-3",
+    "title": "Theme 36",
+    "description": "In this possible and cautious scenario for 36, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_SYR_FullVolume_p66_1",
+      "IPCC_AR6_WGII_FullReport_p790_1",
+      "IPCC_AR6_WGII_FullReport_p2863_1",
+      "IPCC_AR6_WGII_FullReport_p789_1",
+      "IPCC_AR6_WGII_FullReport_p2864_1"
+    ],
+    "sources": [
+      "IPCC_AR6_SYR_FullVolume_p66_1:  (IPCC_AR6_SYR_FullVolume.json)",
+      "IPCC_AR6_WGII_FullReport_p790_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2863_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p789_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2864_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-37-negative-possible-1",
+    "title": "Theme 37",
+    "description": "In this possible and cautious scenario for 37, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2676_1",
+      "IPCC_AR6_WGII_FullReport_p42_1",
+      "IPCC_AR6_WGII_FullReport_p2719_1",
+      "IPCC_AR6_WGII_FullReport_p1252_1",
+      "IPCC_AR6_SYR_FullVolume_p113_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2676_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p42_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2719_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1252_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_SYR_FullVolume_p113_1:  (IPCC_AR6_SYR_FullVolume.json)"
+    ]
+  },
+  {
+    "id": "theme-86-negative-possible-1",
+    "title": "Theme 86",
+    "description": "In this possible and cautious scenario for 86, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2454_1",
+      "IPCC_AR6_WGII_FullReport_p1866_1",
+      "IPCC_AR6_WGII_FullReport_p1901_1",
+      "IPCC_AR6_WGII_FullReport_p1899_1",
+      "IPCC_AR6_WGII_FullReport_p1871_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2454_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1866_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1901_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1899_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1871_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-11-negative-possible-3",
+    "title": "Theme 11",
+    "description": "In this possible and cautious scenario for 11, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p330_1",
+      "IPCC_AR6_WGII_FullReport_p2556_1",
+      "IPCC_AR6_WGII_FullReport_p2585_1",
+      "IPCC_AR6_WGII_FullReport_p2628_1",
+      "IPCC_AR6_WGII_FullReport_p83_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p330_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2556_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2585_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2628_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p83_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-23-negative-plausible-1",
+    "title": "Theme 23",
+    "description": "In this plausible and cautious scenario for 23, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2841_1",
+      "IPCC_AR6_WGII_FullReport_p1626_1",
+      "IPCC_AR6_WGII_FullReport_p738_1",
+      "IPCC_AR6_WGII_FullReport_p1504_1",
+      "IPCC_AR6_WGII_FullReport_p744_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2841_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1626_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p738_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1504_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p744_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-111-positive-possible-2",
+    "title": "Theme 111",
+    "description": "In this possible and optimistic scenario for 111, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p798_1",
+      "IPCC_AR6_WGII_FullReport_p1738_1",
+      "IPCC_AR6_WGII_FullReport_p731_1",
+      "IPCC_AR6_WGII_FullReport_p826_1",
+      "IPCC_AR6_WGII_FullReport_p831_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p798_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1738_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p731_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p826_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p831_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-44-negative-possible-1",
+    "title": "Theme 44",
+    "description": "In this possible and cautious scenario for 44, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p262_1",
+      "IPCC_AR6_WGIII_FullReport_p1202_1",
+      "IPCC_AR6_WGIII_FullReport_p1235_1",
+      "IPCC_AR6_WGIII_FullReport_p1194_1",
+      "IPCC_AR6_WGIII_FullReport_p1218_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p262_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1202_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1235_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1194_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1218_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-53-positive-plausible-1",
+    "title": "Theme 53",
+    "description": "In this plausible and optimistic scenario for 53, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p1744_1",
+      "IPCC_AR6_WGIII_FullReport_p1778_1",
+      "IPCC_AR6_WGIII_FullReport_p1781_1",
+      "IPCC_AR6_SYR_FullVolume_p118_1",
+      "IPCC_AR6_WGIII_FullReport_p1798_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p1744_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1778_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1781_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_SYR_FullVolume_p118_1:  (IPCC_AR6_SYR_FullVolume.json)",
+      "IPCC_AR6_WGIII_FullReport_p1798_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-10-positive-possible-1",
+    "title": "Theme 10",
+    "description": "In this possible and optimistic scenario for 10, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p1471_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p1471_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-131-negative-possible-1",
+    "title": "Theme 131",
+    "description": "In this possible and cautious scenario for 131, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p782_1",
+      "IPCC_AR6_WGIII_FullReport_p792_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p782_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p792_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-1-negative-possible-1",
+    "title": "Theme 1",
+    "description": "In this possible and cautious scenario for 1, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2961_1",
+      "IPCC_AR6_SYR_AnnexesIndex_p20_1",
+      "IPCC_AR6_WGII_FullReport_p2984_1",
+      "IPCC_AR6_WGII_FullReport_p3006_1",
+      "IPCC_AR6_SYR_FullVolume_p155_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2961_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_SYR_AnnexesIndex_p20_1:  (IPCC_AR6_SYR_AnnexesIndex.json)",
+      "IPCC_AR6_WGII_FullReport_p2984_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p3006_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_SYR_FullVolume_p155_1:  (IPCC_AR6_SYR_FullVolume.json)"
+    ]
+  },
+  {
+    "id": "theme-51-negative-plausible-2",
+    "title": "Theme 51",
+    "description": "In this plausible and cautious scenario for 51, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p194_1",
+      "IPCC_AR6_WGIII_FullReport_p408_1",
+      "IPCC_AR6_WGIII_FullReport_p1921_1",
+      "IPCC_AR6_WGIII_FullReport_p420_1",
+      "IPCC_AR6_WGIII_FullReport_p406_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p194_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p408_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1921_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p420_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p406_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-53-positive-plausible-2",
+    "title": "Theme 53",
+    "description": "In this plausible and optimistic scenario for 53, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_SYR_FullVolume_p118_1",
+      "IPCC_AR6_WGIII_FullReport_p1747_1",
+      "IPCC_AR6_WGIII_FullReport_p191_1",
+      "IPCC_AR6_WGIII_FullReport_p1744_1",
+      "IPCC_AR6_WGIII_FullReport_p58_1"
+    ],
+    "sources": [
+      "IPCC_AR6_SYR_FullVolume_p118_1:  (IPCC_AR6_SYR_FullVolume.json)",
+      "IPCC_AR6_WGIII_FullReport_p1747_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p191_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1744_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p58_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-25-negative-probable-1",
+    "title": "Theme 25",
+    "description": "In this very likely and cautious scenario for 25, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "probable",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p1780_1",
+      "IPCC_AR6_WGII_FullReport_p1746_1",
+      "IPCC_AR6_WGII_FullReport_p1805_1",
+      "IPCC_AR6_WGII_FullReport_p1729_1",
+      "IPCC_AR6_WGII_FullReport_p1710_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p1780_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1746_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1805_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1729_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1710_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-34-positive-probable-2",
+    "title": "Theme 34",
+    "description": "In this very likely and optimistic scenario for 34, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "probable",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p298_1",
+      "IPCC_AR6_WGII_FullReport_p1352_1",
+      "IPCC_AR6_WGII_FullReport_p85_1",
+      "IPCC_AR6_WGII_FactSheet_Contributors_p2_1",
+      "IPCC_AR6_WGII_FullReport_p1851_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p298_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1352_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p85_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FactSheet_Contributors_p2_1:  (IPCC_AR6_WGII_FactSheet_Contributors.json)",
+      "IPCC_AR6_WGII_FullReport_p1851_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-32-positive-possible-1",
+    "title": "Theme 32",
+    "description": "In this possible and optimistic scenario for 32, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGIII_FullReport_p64_1",
+      "IPCC_AR6_WGII_FullReport_p2551_1",
+      "IPCC_AR6_WGIII_FullReport_p308_1",
+      "IPCC_AR6_WGII_FullReport_p2575_1",
+      "IPCC_AR6_WGIII_FullReport_p1854_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGIII_FullReport_p64_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2551_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p308_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2575_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p1854_1:  (IPCC_AR6_WGIII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-22-positive-plausible-2",
+    "title": "Theme 22",
+    "description": "In this plausible and optimistic scenario for 22, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2035_1",
+      "IPCC_AR6_WGII_FullReport_p336_1",
+      "IPCC_AR6_WGII_FullReport_p345_1",
+      "IPCC_AR6_WGII_FullReport_p2403_1",
+      "IPCC_AR6_WGII_FullReport_p360_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2035_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p336_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p345_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2403_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p360_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-76-negative-plausible-2",
+    "title": "Theme 76",
+    "description": "In this plausible and cautious scenario for 76, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p755_1",
+      "IPCC_AR6_WGII_FullReport_p1860_1",
+      "IPCC_AR6_WGII_FullReport_p653_1",
+      "IPCC_AR6_WGII_FullReport_p1529_1",
+      "IPCC_AR6_WGII_FullReport_p638_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p755_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1860_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p653_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1529_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p638_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-16-negative-plausible-3",
+    "title": "Theme 16",
+    "description": "In this plausible and cautious scenario for 16, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p2243_1",
+      "IPCC_AR6_WGII_FullReport_p2218_1",
+      "IPCC_AR6_WGII_FullReport_p2221_1",
+      "IPCC_AR6_WGII_FullReport_p2211_1",
+      "IPCC_AR6_WGII_FullReport_p2215_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p2243_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2218_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2221_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2211_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p2215_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-136-positive-plausible-1",
+    "title": "Theme 136",
+    "description": "In this plausible and optimistic scenario for 136, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p1530_1",
+      "IPCC_AR6_WGII_FullReport_p1523_1",
+      "IPCC_AR6_WGII_FullReport_p1525_1",
+      "IPCC_AR6_WGII_FullReport_p1473_1",
+      "IPCC_AR6_WGII_FullReport_p1546_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p1530_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1523_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1525_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1473_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1546_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-12-positive-plausible-3",
+    "title": "Theme 12",
+    "description": "In this plausible and optimistic scenario for 12, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "plausible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p513_1",
+      "IPCC_AR6_WGII_FullReport_p518_1",
+      "IPCC_AR6_WGII_FullReport_p539_1",
+      "IPCC_AR6_WGII_FullReport_p516_1",
+      "IPCC_AR6_WGII_FullReport_p399_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p513_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p518_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p539_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p516_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p399_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme-15-positive-possible-2",
+    "title": "Theme 15",
+    "description": "In this possible and optimistic scenario for 15, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "positive",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p1299_1",
+      "IPCC_AR6_WGIII_FullReport_p13_1",
+      "IPCC_AR6_WGIII_FullReport_p967_1",
+      "IPCC_AR6_WGIII_FullReport_p761_1",
+      "IPCC_AR6_WGII_FullReport_p392_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p1299_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p13_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p967_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGIII_FullReport_p761_1:  (IPCC_AR6_WGIII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p392_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  },
+  {
+    "id": "theme--1-negative-possible-3",
+    "title": "Theme -1",
+    "description": "In this possible and cautious scenario for -1, key developments are emerging. However, more details are needed to describe this scenario.",
+    "polarity": "negative",
+    "likelihood": "possible",
+    "contributingSignals": [
+      "IPCC_AR6_WGII_FullReport_p1277_1",
+      "IPCC_AR6_WGII_FullReport_p1502_1",
+      "IPCC_AR6_WGII_FullReport_p818_1",
+      "IPCC_AR6_WGII_FullReport_p1308_1",
+      "IPCC_AR6_WGII_FullReport_p67_1"
+    ],
+    "sources": [
+      "IPCC_AR6_WGII_FullReport_p1277_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1502_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p818_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p1308_1:  (IPCC_AR6_WGII_FullReport.json)",
+      "IPCC_AR6_WGII_FullReport_p67_1:  (IPCC_AR6_WGII_FullReport.json)"
+    ]
+  }
+]
